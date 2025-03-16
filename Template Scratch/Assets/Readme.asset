@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 5fee61bf5f8c31b48be3180f46d5801f, type: 3}
+  title: Scratch project
+  sections:
+  - heading: Welcome to your Scratch converted project !
+    text: This project was converted from a scratch project.
+    linkText: 
+    url:
+  - heading: Documentation
+    text:
+    linkText: Read more about the conversion
+    url: http://scratch-pro.42web.io/Documentation.html
+  - heading: Build the project
+    text: Unity can build your application for different platforms and with different settings. Go to File > Build Settings. Select your platform, then click Build and choose your build location.
+    linkText:
+    url: 
+  - heading: Organization
+    text: Your scripts has been converted in Assets/Scripts. Your costumes are located in Assets/Costumes and your sounds in Assets/Sounds. Your sprites are in the scene, in the hierarchy and in the scene view.
+    linkText:
+    url:
+  - heading: Report bugs
+    text:
+    linkText: Submit a report
+    url: https://scratch.mit.edu/users/scratchtomv/#comments
+  loadedLayout: 1
